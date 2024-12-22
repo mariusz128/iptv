@@ -1,2 +1,2 @@
-# iptv
-Balkan IPTV
+# Balkan IPTV
+Project to enable watching of balkan channels via an IPTV client, at no cost.
