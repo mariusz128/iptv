@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/alp
 https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/skai.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-id="open" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/open.png" group-title="General",Open Beyond
 https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/open.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-id="star" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/star.png" group-title="General",Star
+#EXTINF:-1 tvg-country="GR" tvg-id="star" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/star.jpeg" group-title="General",Star
 https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/star.m3u8
-#EXTINF:-1 tvg-country="GR" tvg-id="stari" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/stari.png" group-title="General",Star International
+#EXTINF:-1 tvg-country="GR" tvg-id="stari" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/stari.jpeg" group-title="General",Star International
 https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/stari.m3u8
 #EXTINF:-1 tvg-country="GR" tvg-id="mak" tvg-logo="https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/logo/gr/mak.png" group-title="General",Makedonia
 https://raw.githubusercontent.com/mariusz128/iptv/refs/heads/main/streams/gr/mak.m3u8
