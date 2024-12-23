@@ -1,0 +1,5 @@
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH:4298000,RESOLUTION:1920x1080
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH:5476000,RESOLUTION:1280x720
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
